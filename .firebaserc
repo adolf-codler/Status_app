@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "chugli-6b8ca"
+  },
+  "targets": {
+    "chugli-6b8ca": {
+      "hosting": {
+        "app1": [
+          "app1",
+          "chugli-6b8ca"
+        ],
+        "app2": [
+          "chugliadmin"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
